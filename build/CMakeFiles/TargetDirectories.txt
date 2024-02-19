@@ -1,0 +1,3 @@
+/home/luanbonizi/VS code/QuartoSemestre/ED II/projeto_2/build/CMakeFiles/movie_manager.dir
+/home/luanbonizi/VS code/QuartoSemestre/ED II/projeto_2/build/CMakeFiles/edit_cache.dir
+/home/luanbonizi/VS code/QuartoSemestre/ED II/projeto_2/build/CMakeFiles/rebuild_cache.dir
